@@ -1,0 +1,6 @@
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3MultiDArraysTextPractice\bin\Debug\WCCIweek3MultiDArraysTextPractice.exe.config
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3MultiDArraysTextPractice\bin\Debug\WCCIweek3MultiDArraysTextPractice.exe
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3MultiDArraysTextPractice\bin\Debug\WCCIweek3MultiDArraysTextPractice.pdb
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3MultiDArraysTextPractice\obj\Debug\WCCIweek3MultiDArraysTextPractice.csprojResolveAssemblyReference.cache
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3MultiDArraysTextPractice\obj\Debug\WCCIweek3MultiDArraysTextPractice.exe
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek3MultiDArraysTextPractice\obj\Debug\WCCIweek3MultiDArraysTextPractice.pdb
